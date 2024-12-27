@@ -1,7 +1,6 @@
 NAME: Jakkampudi Madhuri
 
 COMPANY:CODETECH IT SOLUTIONS
-![Screenshot 2024-12-27 133824](https://github.com/user-attachments/assets/689748c0-65bd-4f5a-b109-1d4e526cd39c)
 
 ID:CTO8EXD
 
@@ -12,6 +11,9 @@ DURATION:december to january 2025
 MENTOR:santhosh kumar
 
 Overview of the project.
+
+![Screenshot 2024-12-27 133824](https://github.com/user-attachments/assets/689748c0-65bd-4f5a-b109-1d4e526cd39c)
+
 
 This project is a simple yet functional calculator program written in Python. It is designed to provide users with a quick and efficient way to perform basic arithmetic operations through a command-line interface. The calculator supports four fundamental operations:
 
