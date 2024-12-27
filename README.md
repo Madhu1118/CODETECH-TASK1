@@ -1,9 +1,14 @@
-name: jakkampudi madhuri
-company:CODETECH IT SOLUTIONS
+NAME: Jakkampudi Madhuri
+
+COMPANY:CODETECH IT SOLUTIONS
+
 ID:CTO8EXD
-domain:python programming
-duration:december to january 2025
-mentor:santhosh kumar
+
+DOMAIN:python programming
+
+DURATION:december to january 2025
+
+MENTOR:santhosh kumar
 
 Overview of the project.
 
